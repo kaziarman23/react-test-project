@@ -5,7 +5,9 @@ function App() {
 
   return (
     <>
-    git init
+    <div className="w-full h-screen flex justify-center items-center">
+     <h1>arman</h1>
+    </div>
 
     </>
   )
