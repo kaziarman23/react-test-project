@@ -1,10 +1,11 @@
-import Home from "./Components/Home";
+import FetchApi from "./Components/FetchApi";
+
 
 
 function App() {
     return (
-      <Home/>
-    );
+     <FetchApi/>
+    )
 }
 
 export default App;
